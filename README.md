@@ -16,4 +16,13 @@ Aside of my work I try to learn, read and exchange opinions as much as I can to 
 - All kinds of data gathering, scraping, crawling & analysis projects for stock data anylsis and other analysis fields
 
 
+## Tech stack focus:
+
+- Google Cloud
+- Python
+- SQL
+- Airflow
+- (a bit of) JavaScript 
+
+
 :email:  Feel free to reach out to me via Linkedin or mail <reiblemartin@gmail.com> to exchange on **data product ideas**

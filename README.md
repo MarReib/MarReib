@@ -6,10 +6,10 @@ My main work focus is on bringing the right people and their respective talents 
 Aside of my work I try to learn, read and exchange opinions as much as I can to broaden my horizon and perspective on all kind of topics (tech- and non-tech).
 
 ## :construction_worker: I am currently working on:
-- the build up and expansion of a driven data / analytics team where every team member can develop the best possible
-- pitching data product ideas
-- manage various ongoing data / analytics projects and product workstreams
-- evaluate new opportunities for data products in the areas of analytics, applied ML & broader Data Science 
+- The build up and expansion of a driven data / analytics team where every team member can develop the best possible
+- Pitching data product ideas
+- Manage various ongoing data / analytics projects and product workstreams
+- Evaluate new opportunities for data products in the areas of analytics, applied ML & broader Data Science 
 
 ## :man_scientist: Personal project focus:
 - Experimenting with computer vision application
